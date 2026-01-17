@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Pygame)
+# Snake Game (Pygame)
 
 Snake Game เขียนด้วย Python + Pygame  
 มีระบบ:
