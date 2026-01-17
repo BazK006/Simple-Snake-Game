@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Snake Game (Pygame)
+=======
+🐍 Snake Game (Pygame)
+>>>>>>> e819401adb141bb786cf42cae92c2a3f70c11a7a
 
 Snake Game เขียนด้วย Python + Pygame  
 มีระบบ:
